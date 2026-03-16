@@ -75,9 +75,9 @@
 
 ## 📈 Activity Graph
 
-<p align="center">
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Abbosbek&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
 
 <div align="center">
