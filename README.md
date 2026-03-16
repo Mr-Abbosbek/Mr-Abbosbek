@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm Phillipe
 
-💻 **Frontend Developer**
-Building modern, scalable and user-friendly web applications.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%7C+TypeScript+Specialist;Building+Modern+Web+Applications;Always+Learning+New+Things&center=true&width=500&height=45">
 
 </div>
 
@@ -11,42 +10,24 @@ Building modern, scalable and user-friendly web applications.
 
 ## 🚀 About Me
 
+💻 Passionate **Frontend Developer** focused on building modern, fast, and scalable web applications.
+
 * ⚛️ Specialized in **React** and **TypeScript**
 * 🟢 Building backend services with **Node.js**
 * 🎨 Creating modern UI with **TailwindCSS** and **Ant Design**
 * 🌍 Developing **multilingual applications (i18n)**
-* 🔌 Working with **REST APIs**, **WebSockets**, and real-time systems
-* 🧠 Always learning new technologies and improving my workflow
+* 🔌 Experience with **REST APIs**, **WebSockets**, and real-time systems
+* 🧠 Always improving my development workflow
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+<div align="center">
 
-![React](https://skillicons.dev/icons?i=react)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Vue](https://skillicons.dev/icons?i=vue)
-![Nuxt](https://skillicons.dev/icons?i=nuxt)
+<img src="https://skillicons.dev/icons?i=react,ts,js,vue,nuxt,nodejs,express,tailwind,html,css,git,docker,postman,figma" />
 
-### UI / Styling
-
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![CSS](https://skillicons.dev/icons?i=css)
-![HTML](https://skillicons.dev/icons?i=html)
-
-### Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Figma](https://skillicons.dev/icons?i=figma)
+</div>
 
 ---
 
@@ -54,9 +35,9 @@ Building modern, scalable and user-friendly web applications.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Phillipe\&show_icons=true\&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-Phillipe&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Phillipe\&layout=compact\&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Phillipe&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -66,7 +47,7 @@ Building modern, scalable and user-friendly web applications.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Phillipe\&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=Mr-Phillipe&theme=tokyonight" />
 
 </div>
 
@@ -76,7 +57,17 @@ Building modern, scalable and user-friendly web applications.
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mr-Phillipe\&theme=tokyonight\&margin-w=10)
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Phillipe&theme=tokyonight&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Phillipe&theme=tokyo-night" />
 
 </div>
 
@@ -86,7 +77,7 @@ Building modern, scalable and user-friendly web applications.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mr-Phillipe\&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Mr-Phillipe&label=Profile%20views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -94,6 +85,6 @@ Building modern, scalable and user-friendly web applications.
 
 <div align="center">
 
-⭐ *"First solve the problem, then write the code."*
+⭐ *“First solve the problem, then write the code.”*
 
 </div>
