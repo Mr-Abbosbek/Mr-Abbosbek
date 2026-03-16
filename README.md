@@ -1,31 +1,99 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+<div align="center">
+
+# 👋 Hi, I'm Phillipe
+
+💻 **Frontend Developer**
+Building modern, scalable and user-friendly web applications.
+
+</div>
 
 ---
 
-### 🤝🏻 Connect, Follow, Subscribe
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbosbek-mahmudjonov-a3b059223)
+* ⚛️ Specialized in **React** and **TypeScript**
+* 🟢 Building backend services with **Node.js**
+* 🎨 Creating modern UI with **TailwindCSS** and **Ant Design**
+* 🌍 Developing **multilingual applications (i18n)**
+* 🔌 Working with **REST APIs**, **WebSockets**, and real-time systems
+* 🧠 Always learning new technologies and improving my workflow
 
 ---
 
-### 💻 Languages, Frameworks, Tools
+## 🛠 Tech Stack
 
-<p float="left">
-<img style="padding:5px;" align="center" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+### Frontend
 
-<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img style="padding:5px;" align="center" alt="BootStrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img style="padding:5px;" align="center" alt="Material-Design" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png">
+![React](https://skillicons.dev/icons?i=react)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Vue](https://skillicons.dev/icons?i=vue)
+![Nuxt](https://skillicons.dev/icons?i=nuxt)
 
-<img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+### UI / Styling
 
-<img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img style="padding:5px;" align="center" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![CSS](https://skillicons.dev/icons?i=css)
+![HTML](https://skillicons.dev/icons?i=html)
 
-<img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img style="padding:5px;" align="center" alt="VueJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
+### Backend
 
-</p>
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Phillipe\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Phillipe\&layout=compact\&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mr-Phillipe\&theme=tokyonight)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mr-Phillipe\&theme=tokyonight\&margin-w=10)
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mr-Phillipe\&color=blue)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *"First solve the problem, then write the code."*
+
+</div>
