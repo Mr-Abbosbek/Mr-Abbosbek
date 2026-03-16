@@ -21,6 +21,10 @@
 * 🔌 Experience with **REST APIs** and **WebSockets**
 * 🧠 Always learning and improving
 
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Mr-Phillipe&label=Profile%20views&color=blue&style=flat" />
+
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -68,20 +72,6 @@
 <p align="center">
 <img src="https://ghchart.rshah.org/Mr-Phillipe" />
 </p>
-
-## 📊 GitHub Metrics
-
-<p align="center">
-<img src="https://metrics.lecoq.io/Mr-Phillipe?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia/Tashkent">
-</p>
-
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Mr-Phillipe&label=Profile%20views&color=blue&style=flat" />
-
-</div>
 
 ## 📈 Activity Graph
 
