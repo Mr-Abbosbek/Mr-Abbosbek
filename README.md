@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Phillipe&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Abbosbek&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 
-# 👋 Hi, I'm Phillipe
+# 👋 Hi, I'm Abbosbek
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%7C+TypeScript+Specialist;Building+Modern+Web+Applications;Always+Learning+New+Technologies&center=true&width=500&height=45">
 
@@ -23,7 +23,7 @@
 
 ## 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=Mr-Phillipe&label=Profile%20views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Mr-Abbosbek&label=Profile%20views&color=blue&style=flat" />
 
 ## 🛠 Tech Stack
 
@@ -37,9 +37,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-Phillipe&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-Abbosbek&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Phillipe&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Abbosbek&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mr-Phillipe&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Mr-Abbosbek&theme=tokyonight" />
 
 </div>
 
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mr-Phillipe&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Abbosbek&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" />
 
 </div>
 
@@ -63,20 +63,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Phillipe&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Abbosbek&theme=tokyo-night" />
 
 </div>
 
 ## 📅 Contribution Calendar
 
 <p align="center">
-<img src="https://ghchart.rshah.org/Mr-Phillipe" />
+<img src="https://ghchart.rshah.org/Mr-Abbosbek" />
 </p>
 
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Phillipe&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Abbosbek&theme=tokyo-night&hide_border=true" />
 </p>
 
 
