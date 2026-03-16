@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Abbosbek&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:14b8a6&height=220&section=header&text=Abbosbek&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&width=100%" />
 
 # 👋 Hi, I'm Abbosbek
 
@@ -80,4 +80,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f766e&height=150&section=footer&width=100%" />
