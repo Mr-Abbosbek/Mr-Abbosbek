@@ -16,6 +16,7 @@
 
 * ⚛️ Specialized in **React** and **TypeScript**
 * 🟢 Working with **Node.js** for backend services
+* 🖖 Experienced with Vue 3 and Nuxt 3 for modern frontend development
 * 🎨 Building clean UI with **TailwindCSS** and **Ant Design**
 * 🌍 Developing **multilingual applications (i18n)**
 * 🔌 Experience with **REST APIs** and **WebSockets**
