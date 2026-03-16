@@ -65,11 +65,24 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Abbosbek&theme=tokyo-night&hide_border=true" />
 </div>
 
-## 📅 Contribution Calendar
+## 📅 Contribution Activity
 
 <p align="center">
-<img src="https://ghchart.rshah.org/Mr-Abbosbek" />
+  <img src="https://ghchart.rshah.org/409EFF/Mr-Abbosbek" alt="GitHub Contribution Chart"/>
 </p>
+
+<p align="center">
+  <i>My GitHub contribution activity over time</i>
+</p>
+
+## 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/409EFF/Mr-Abbosbek" alt="GitHub Contribution Chart" />
+
+</div>
+
 
 <div align="center">
 
