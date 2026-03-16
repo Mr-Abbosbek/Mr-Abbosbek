@@ -59,12 +59,10 @@
 
 </div>
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Abbosbek&theme=tokyo-night" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Abbosbek&theme=tokyo-night&hide_border=true" />
 </div>
 
 ## 📅 Contribution Calendar
@@ -72,13 +70,6 @@
 <p align="center">
 <img src="https://ghchart.rshah.org/Mr-Abbosbek" />
 </p>
-
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Abbosbek&theme=tokyo-night&hide_border=true" />
-</div>
-
 
 <div align="center">
 
