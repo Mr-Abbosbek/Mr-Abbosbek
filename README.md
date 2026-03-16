@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 💻 Passionate **Frontend Developer** who enjoys building modern, scalable and high-performance web applications.
