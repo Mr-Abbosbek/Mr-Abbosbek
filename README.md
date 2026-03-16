@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/409EFF/Mr-Abbosbek" alt="GitHub Contribution Chart" />
+<img src="https://ghchart.rshah.org/0E5451/Mr-Abbosbek" alt="GitHub Contribution Chart" />
 
 </div>
 
