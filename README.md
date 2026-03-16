@@ -105,17 +105,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Phillipe&theme=tokyo-night&hide_border=true" />
 </p>
 
-## ⚡ Tech
-
-<p align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-</p>
-
 
 <div align="center">
 
