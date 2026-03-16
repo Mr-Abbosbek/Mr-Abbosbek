@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Abbosbek
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%7C+TypeScript+Specialist;Building+Modern+Web+Applications;Always+Learning+New+Technologies&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%7C+TypeScript+Specialist;Building+Modern+Web+Applications;Always+Learning+New+Technologies&center=true&width=500&height=45&color=127A71" />
 
 </div>
 
