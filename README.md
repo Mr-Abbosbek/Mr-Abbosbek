@@ -40,14 +40,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mr-Abbosbek&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" />
-
-</div>
-
 ## 📈 Activity Graph
 
 <div align="center">
